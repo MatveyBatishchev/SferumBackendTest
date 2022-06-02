@@ -1,0 +1,27 @@
+{
+  "products" : [ {
+    "id" : 0,
+    "book" : {
+      "author" : "Стив Макконелл",
+      "name" : "Совершенный код"
+    },
+    "price" : 1000,
+    "amount" : 7
+  }, {
+    "id" : 1,
+    "book" : {
+      "author" : "Брюс Эккель",
+      "name" : "Философия Java"
+    },
+    "price" : 1500,
+    "amount" : 15
+  }, {
+    "id" : 2,
+    "book" : {
+      "author" : "Joshua Bloch",
+      "name" : "Effective Java"
+    },
+    "price" : 2500,
+    "amount" : 10
+  } ]
+}
